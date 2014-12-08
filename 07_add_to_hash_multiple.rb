@@ -29,7 +29,8 @@ tournaments = {
 #   Wins: ["1976", "1977", "1978", "1979", "1980"]
 #   Losses: ["1981"]
 #
-#------- your code below here ---------
+#------- your code below here --------
+person.merge!(tournaments)
 
 #------- your code above here ---------
 

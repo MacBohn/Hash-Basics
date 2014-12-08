@@ -19,6 +19,7 @@ person = {
 #   ["sushi", "hamburgers", "mexican food", "ethiopian"]
 #
 #------- your code below here ---------
+person["favorite_foods"] << "ethiopian"
 
 #------- your code above here ---------
 
